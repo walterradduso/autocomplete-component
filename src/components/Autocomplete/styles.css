@@ -24,6 +24,7 @@
       padding: 0.5rem;
       cursor: pointer;
       border-radius: 0.3rem;
+      text-align: left;
 
       &:hover {
         background: #ccc;
